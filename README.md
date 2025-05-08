@@ -59,6 +59,6 @@ docker-compose up
 - Backend: Node.js, Express.js, MongoDB, Mongoose
 - Deployment: Docker
 
-## Acknowledgments
+## Acknowledgment
 
 This project is based on [zaheersani/todo-mern](https://github.com/zaheersani/todo-mern/), with modifications to support Docker containerization.
